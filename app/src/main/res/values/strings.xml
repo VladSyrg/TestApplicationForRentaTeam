@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">TestApplicationForRentaTeam</string>
+    <string name="title_users">Пользователи</string>
+    <string name="title_about">О программе</string>
+    <string name="title_user">Пользователь</string>
+    <string name="text_empty_list_of_users">Пока здесь пусто.</string>
+    <string name="text_error_while_fetching">Произошла ошибка.</string>
+    <string name="second_name">Фамилия</string>
+    <string name="first_name">Имя</string>
+    <string name="email">E-mail</string>
+    <string name="about_text">Тестовое задание для Rentateam</string>
+    <string name="avatar_image_description">Аватар</string>
+    <string name="no_internet_text">Нет интернет соединения. Включите интернет и нажмите \'повторить\'.</string>
+
+</resources>
